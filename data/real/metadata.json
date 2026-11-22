@@ -1,0 +1,20 @@
+{
+  "file": "real_2025.npz",
+  "sha256": "a6b7b07cd2c53c4e3883276ce58e7a493641d8421d7fd7130ccefa2d9d3c3a4b",
+  "bytes": 3176879,
+  "year": 2025,
+  "firms": 5436,
+  "prefectures": 285,
+  "provinces": 31,
+  "adjacency_edges": 678,
+  "scenarios_per_risk_model": 150,
+  "positive_retrospective_labels": 223,
+  "study_budgets": [
+    109,
+    163,
+    272,
+    544,
+    815
+  ],
+  "default_budget": 272
+}
